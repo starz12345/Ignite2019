@@ -1,0 +1,4 @@
+odinson/thor/entities/Book.class
+odinson/thor/Application.class
+odinson/thor/repositories/BookRepository.class
+odinson/thor/controllers/BookController.class
